@@ -1,0 +1,40 @@
+body{
+background-image:url(../img/index_usr.jpg);
+padding:0px;
+margin:0px;
+background-repeat:no-repeat;
+background-size:cover;
+}
+div{
+height:300px;
+width:400px;
+background-color:white;
+float:right;
+margin-right:250px;
+margin-top:150px;
+border:1px solid #EEEEEE;
+}
+div section{
+font-size:20px;
+color:#999999;
+float:left;
+padding-top:25px;
+margin-left:60px;
+}
+div section:hover{
+color:#333333;
+}
+hr{
+margin-top:20px;
+color:#EEEEEE
+}
+a{
+font-size:12px;
+text-decoration:none;
+align:right;
+color:#999999;
+}
+asd{
+float:right;
+margin-right:20px;
+}

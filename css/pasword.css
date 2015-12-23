@@ -1,0 +1,11 @@
+body{
+margin:0px;
+padding:0px;
+background-image:url(../img/pasword.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+font-size:40px;
+}
+form{
+margin-top:200px;
+}
