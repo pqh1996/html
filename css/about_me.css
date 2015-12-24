@@ -1,0 +1,20 @@
+.content a{
+	text-decoration:none;
+	color:black;
+}
+.content .nav{
+	border-bottom:1px solid gray;
+}
+.content .atc{
+	width:700px;
+	line-height:20px;
+}
+.content .atc{
+	margin-top:20px;
+}
+.content ._right pre{
+	color:gray;
+}
+.content ._right{
+	width:200px;
+}
