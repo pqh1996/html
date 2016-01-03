@@ -1,0 +1,21 @@
+.nav {
+	margin-left:220px;
+}
+.nav a{
+	text-decoration:none;
+}
+.content{
+	margin-left:220px;
+	margin-right:220px;
+
+}
+.qq{
+	margin-top:20px;
+	border-left:1px dotted gray;
+	border-right:1px dotted gray;
+}
+p{
+	font-size:15px;
+	color:black;
+	line-height:40px;
+}

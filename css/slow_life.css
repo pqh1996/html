@@ -1,0 +1,35 @@
+.nav {
+	margin-left:220px;
+}
+.nav a{
+	text-decoration:none;
+}
+.blog{
+	width:740px;
+	overflow:hidden;
+	background:transparent url("../images/r_line.jpg") repeat-y scroll right center;
+	margin:10px 0px;
+	color:#756F71;
+	border-bottom:1px dotted gray;
+}
+p.date{
+	margin-bottom:10px;
+}
+p.date span{
+	margin:0px 10px 0px 0px;
+}
+ul{
+	list-style:outside none none;
+	float:left;
+}
+.list{
+		line-height:1.9;
+}
+a.what{
+    background: #F90 none repeat scroll 0% 0%;
+    color: #FFF;
+    padding: 5px 10px;
+    float: right;
+    margin: 20px 0px 0px;
+	text-decoration:none;
+}
